@@ -1,14 +1,14 @@
-h1. ANZ eGate Gateway for ActiveMerchant 
+# ANZ eGate Gateway for ActiveMerchant 
 
 the gateway uses mastercard migs virtual payment client for payments. Requests are sent by POST over https.
 
 Gateways supports:
 
-# Purchase
-# Refund/Credit
-# Query past payment requests
+1. Purchase
+2. Refund/Credit
+3. Query past payment requests
 
 TODO LIST:
 
-* Authorize
-* Capture
+1. Authorize
+2. Capture
